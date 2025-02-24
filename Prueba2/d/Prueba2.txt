@@ -1,9 +1,9 @@
 FF
-Z
-X
-FFFA
+A
+XXXXXXDDD
+DFFA
 Caa
-Daaa
+ASaa
 Eaaaa
 F
 G
